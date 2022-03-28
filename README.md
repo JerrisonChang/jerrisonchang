@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi! I'm Jerrison Chang-Sundin!
+_PHD student_ at [University at Albany](https://www.albany.edu/)
+
+
+A Little more about me...
+```Javascript
+const Jerrison = {
+    pronoun: "he/him",
+    code: ["Python", "JavaScript", "Java"],
+    framework: ["flask", "Node", "AngularJS", "ExpressJS"],
+    pets: [{
+        type: 🐈,
+        name: "Mochi"
+    }],
+    hobbies: ["digital drawing", "yoga", "video games"]
+}
+```
 
 <!--
 **JerrisonChang/jerrisonchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
