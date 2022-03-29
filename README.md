@@ -1,6 +1,7 @@
 ### Hi! I'm Jerrison Chang-Sundin!
-_PHD student_ at [University at Albany](https://www.albany.edu/)
+<img align="right" src="img/cartoonized_profile_pic.png" width="230"/>
 
+_PHD student_ at [University at Albany](https://www.albany.edu/)
 
 A Little more about me...
 ```Javascript
