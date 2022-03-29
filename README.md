@@ -3,7 +3,9 @@
 
 _PHD student_ at [University at Albany](https://www.albany.edu/)
 
-A Little more about me...
+[![LinkedIn Badge](https://img.shields.io/badge/chunyen--cs-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chunyen-cs/)
+
+### A Little more about me...
 ```Javascript
 const Jerrison = {
     pronoun: "he/him",
