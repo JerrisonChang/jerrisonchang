@@ -10,13 +10,13 @@ _PHD student_ at [University at Albany](https://www.albany.edu/)
 ```Javascript
 const Jerrison = {
     pronoun: "he/him",
-    code: ["Python", "JavaScript", "Java"],
-    framework: ["flask", "Node", "AngularJS", "ExpressJS"],
+    code: [Python, JavaScript, Java],
+    framework: [Flask, NodeJS, AngularJS, ExpressJS],
     pets: [{
         type: 🐈,
         name: "Mochi"
     }],
-    hobbies: ["digital drawing", "yoga", "video games"]
+    hobbies: [digitalDrawing, yoga, videoGames]
 }
 ```
 
