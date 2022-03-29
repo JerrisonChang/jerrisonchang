@@ -16,7 +16,7 @@ const Jerrison = {
         type: 🐈,
         name: "Mochi"
     }],
-    hobbies: [digitalDrawing, yoga, videoGames]
+    hobbies: [digitalDrawing, yoga, videoGames, sawing]
 }
 ```
 
