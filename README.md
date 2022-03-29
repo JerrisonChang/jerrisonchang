@@ -16,7 +16,7 @@ const Jerrison = {
         Java: [Basics],
     },
     database: [MongoDB],
-    deployment: [nginx],
+    deployment: [nginx, AWS_EC2],
     pets: [{
         type: Cat,
         name: "Mochi"
@@ -24,7 +24,7 @@ const Jerrison = {
     hobbies: [digitalDrawing, yoga, videoGames, sawing]
 }
 ```
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrisonchang&theme=city_lights&layout=compact&langs_count=10) -->
 <!--
 **JerrisonChang/jerrisonchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
