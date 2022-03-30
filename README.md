@@ -4,7 +4,7 @@
 _PHD student_ at [University at Albany](https://www.albany.edu/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/chunyen--cs-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chunyen-cs/)
-[![personal website](https://img.shields.io/badge/website-chunyencs.com-bae8ff?style=flat&logo=Google-chrome&logoColor=white&labelColor=16587a)](https://chunyencs.com/)
+[![personal website](https://img.shields.io/badge/website-chunyencs.com-bae8ff?style=flat&logoColor=white&labelColor=16587a)](https://chunyencs.com/)
 
 ### A Little more about me...
 ```Javascript
