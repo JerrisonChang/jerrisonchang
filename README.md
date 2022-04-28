@@ -13,7 +13,7 @@ const Jerrison = {
     programmingSkills: {
         Python: [Flask, pandas, numpy, scikit-learn, nltk, spacy],
         JavaScript: [NodeJS, ExpressJS, AngularJS, ReactJS, cytoscapejs],
-        Typescript: []
+        Typescript: [],
         Java: [],
     },
     database: [MongoDB],
