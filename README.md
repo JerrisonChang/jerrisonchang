@@ -12,8 +12,9 @@ const Jerrison = {
     pronoun: "he/him",
     programmingSkills: {
         Python: [Flask, pandas, numpy, scikit-learn, nltk, spacy],
-        JavaScript: [NodeJS, ExpressJS, AngularJS, cytoscapejs],
-        Java: [Basics],
+        JavaScript: [NodeJS, ExpressJS, AngularJS, ReactJS, cytoscapejs],
+        Typescript: []
+        Java: [],
     },
     database: [MongoDB],
     deployment: [nginx, AWS_EC2],
