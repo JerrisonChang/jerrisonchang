@@ -11,7 +11,7 @@ _PHD student_ at [University at Albany](https://www.albany.edu/)
 const Jerrison = {
     pronoun: "he/him",
     programmingSkills: {
-        Python: [Flask, pandas, numpy, scikit-learn, nltk, spacy],
+        Python: [Flask, pandas, numpy, scikit-learn, nltk, spacy, PyQt5],
         JavaScript: [NodeJS, ExpressJS, AngularJS, ReactJS, cytoscapejs],
         Typescript: [],
         Java: [],
