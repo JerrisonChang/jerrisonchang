@@ -22,7 +22,7 @@ const Jerrison = {
         type: Cat,
         name: "Mochi"
     }],
-    hobbies: [digitalDrawing, yoga, videoGames, sawing]
+    hobbies: [digitalDrawing, yoga, hiking, videoGames, sewing]
 }
 ```
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrisonchang&theme=city_lights&layout=compact&langs_count=10) -->
